@@ -8,6 +8,7 @@ This project is a required repository for Regis University's MSSE-642 class of 2
 - [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Assignments](#assignments)
 - [Contact](#contact)
 
 ## Installed Extensions
@@ -34,6 +35,9 @@ All screenshots are located in the `Resources Folder/Screenshots` directory.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
+
+## Assignments
+- [Assignment 2 – Algaze](./Assignment2-Algaze.md)
 
 ## Contact
 For questions, contact Rasiel Algaze (mailto:ralgazeperdomo@regis.edu).
