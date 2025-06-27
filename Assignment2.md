@@ -1,7 +1,5 @@
 # ACTIVITY 1: Configure Visual Studio Code (VSC)
 
-Navigating to the local repository folder in Visual Studio Code interface. The left sidebar displays the Explorer panel with a list of project files and folders, while the main area shows the contents of the selected folder. The workspace environment is typical for Visual Studio Code, presenting a neutral and focused atmosphere. No visible text appears in the image.
-
 ## Installed Extensions
 ### Excalidraw
 ![alt text](./Resources%20Folder/Screenshots/image-1.png)
