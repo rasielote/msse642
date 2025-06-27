@@ -19,4 +19,4 @@
 ![alt text](./Resources%20Folder/Screenshots/image-5.png)
 
 ### ACTIVITY 3: Wrote an appropiate readme file
-[alt text](./Resources%20Folder/Screenshots/image-6.png)
+![alt text](./Resources%20Folder/Screenshots/image-6.png)
