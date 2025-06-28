@@ -1,5 +1,6 @@
-## 🛠️ Configuration
-
+##  Configuration
+How do you set your Git name and email? Should it be global or just in one repo? Why?  
+If you want Git to use your name and email for every repo on your computer, use global. But if you're working on a project for someone else, you can change it just in that repo (local).
 ### Set your Git username and email globally:
 ```
 git config --global user.name "Your Name"
@@ -25,7 +26,7 @@ git config --local --list
 
 ---
 
-## 📁 Working with a Local Repo
+##  Working with a Local Repo
 
 ### Create a new local repository:
 ```
@@ -71,7 +72,7 @@ git commit -m "Remove file"
 
 ---
 
-## 🌐 Working with a Remote
+##  Working with a Remote
 
 ### View the remote repo:
 ```
@@ -97,7 +98,7 @@ git push origin main
 
 ---
 
-## 🌿 Branches
+## Branches
 
 ### View local and remote branches:
 ```
