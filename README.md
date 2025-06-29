@@ -38,6 +38,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Assignments
 - [Assignment 2 – Algaze](./Assignment2-Algaze.md)
-
+- [Assignment 3 – Algaze](./Assignment3-Algaze.md)
 ## Contact
-For questions, contact Rasiel Algaze (mailto:ralgazeperdomo@regis.edu).
+For questions, contact Rasiel Algaze (ralgazeperdomo@regis.edu).
