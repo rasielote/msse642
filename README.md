@@ -37,7 +37,9 @@ All screenshots are located in the `Resources Folder/Screenshots` directory.
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Assignments
+- [Assignment 1 – Algaze](./Assignment1.md)
 - [Assignment 2 – Algaze](./Assignment2-Algaze.md)
 - [Assignment 3 – Algaze](./Assignment3-Algaze.md)
+- [Assignment 4 – Algaze](./Assignment4-Algaze.md)
 ## Contact
 For questions, contact Rasiel Algaze (ralgazeperdomo@regis.edu).
