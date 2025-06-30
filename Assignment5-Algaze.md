@@ -18,3 +18,8 @@ Rasiel:  https://github.com/rasielote/msse642/
 
 ## Committed and pushed an update to Sree’s Repo
 ![alt text](./Resources%20Folder/Screenshots/image-12.png)
+
+## Created a Pull Request to Issael’s Repo
+![alt text](image-1.png)
+
+### No conficts were found
