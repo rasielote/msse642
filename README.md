@@ -41,5 +41,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 - [Assignment 2 – Algaze](./Assignment2-Algaze.md)
 - [Assignment 3 – Algaze](./Assignment3-Algaze.md)
 - [Assignment 4 – Algaze](./Assignment4-Algaze.md)
+- [Assignment 5 – Algaze](./Assignment5-Algaze.md)
 ## Contact
 For questions, contact Rasiel Algaze (ralgazeperdomo@regis.edu).
