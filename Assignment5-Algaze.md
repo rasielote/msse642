@@ -20,6 +20,6 @@ Rasiel:  https://github.com/rasielote/msse642/
 ![alt text](./Resources%20Folder/Screenshots/image-12.png)
 
 ## Created a Pull Request to Issael’s Repo
-![alt text](image-1.png)
+![alt text](./Resources%20Folder/Screenshots/image-13.png)
 
 ### No conficts were found
