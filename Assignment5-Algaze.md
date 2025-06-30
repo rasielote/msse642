@@ -6,10 +6,11 @@ Rasiel:  https://github.com/rasielote/msse642/
 
 ## Cloned and accessed Teammates Repos  
 
-![alt text](./Resources%20Folder/Screenshots/image-8-5.png)
+![alt text](./Resources%20Folder/Screenshots/image8-5.png)
 
 ## Created ‘Rasiel' branch. Committed and pushed an update to Nitish’s Repo
 ![alt text](./Resources%20Folder/Screenshots/image-9.png)
+
 ![alt text](./Resources%20Folder/Screenshots/image-10.png)
 
 ## Committed and pushed an update to Issael’s Repo
